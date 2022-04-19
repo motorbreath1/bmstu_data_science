@@ -24,7 +24,7 @@
 
 X_bp.xlsx - Датасет.
 X_nup.xlsx- Датасет
-Main_book.ipynb - тетрадь Jupiter.
+Main_book.ipynb - тетрадь Jupyter.
 app.py - консольное приложение Python.
 model- модель нейронной сети для прогноза "Прочность при растяжении, Мпа"
 
